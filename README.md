@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @sameeerjadhav - A self motivated Data Science enthusiast.
-- 👀 I’m interested in solving real world problems using Data Science techniques and methodologies.
-- 🌱 I’m currently learning end to end Data Science project life cycle.
+- 👋 Hi, I’m @sameeerjadhav - A highly motivated Data Science enthusiast.
+- 👀 I solve real world problems using Data Science techniques and methodologies.
 - 💞️ I’m looking to collaborate on open source community.
 - 📫 You can reach me on LinkedIn @linkedin.com/sameeerjadhav
 
