@@ -33,4 +33,3 @@ My commitment to excellence has been recognized through various awards and fello
 ### **Conclusion: A Data Visionary with a Drive to Excel**
 
 In the realm of Data Science, my journey has been marked by curiosity, innovation, and a relentless pursuit of excellence. My education, technical skills, and professional experiences have converged to create a well-rounded Data Scientist with a flair for solving complex problems. I invite you to connect with me, collaborate on exciting projects, and explore the possibilities that data-driven insights can unlock. Together, let's embark on a journey of transforming data into actionable wisdom and shaping the future through innovation.
-![image](https://github.com/sameeerjadhav/sameeerjadhav/assets/30887274/0d9b4802-aa81-45d9-86b7-00342e6cbf53)
