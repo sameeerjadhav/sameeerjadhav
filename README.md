@@ -14,7 +14,7 @@ My journey in data science and AI spans several diverse domains, including healt
 ### Highlights of My Work
 
 - **Knowledge Graphs and AI Systems for Healthcare**  
-  At Cincinnati Children's, I am leading the development of a knowledge graph-powered, multi-agent Retrieval-Augmented Generation (RAG) system. This system uses GenAI techniques like instruction fine-tuning and vector search, enabling researchers to derive insights faster and more accurately from scientific data.
+  At Cincinnati Children's, I am developing a knowledge graph-powered, multi-agent Retrieval-Augmented Generation (RAG) system. This system uses GenAI techniques like instruction fine-tuning and vector search, enabling researchers to derive insights faster and more accurately from scientific data.
 
 - **Advanced Image Analytics in Consumer Goods**  
   During my time with Procter & Gamble, I built image segmentation pipelines using deep learning models (ResNet, U-Net) on Azure Data Factory to streamline high-volume data processing, providing product designers with insights that enhance pre-market product quality and consumer satisfaction.
