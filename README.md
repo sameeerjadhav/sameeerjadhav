@@ -5,7 +5,7 @@ Updated: 11/11/2024
 
 ---
 
-Welcome to my GitHub! I’m Sameer Narendra Jadhav, a data scientist with a passion for building scalable, data-driven solutions that make a real impact. Currently, I’m an AI Research Intern at Cincinnati Children’s Health and Medical Center, where I am building cutting-edge AI tools to transform healthcare research and clinical insights.
+Welcome to my GitHub! I’m Sameer Jadhav, a data scientist with a passion for building scalable, data-driven solutions that make a real impact. Currently, I’m an AI Research Intern at Cincinnati Children’s Health and Medical Center, where I am building cutting-edge AI tools to transform healthcare research and clinical insights.
 
 ## 🔍 About Me
 
