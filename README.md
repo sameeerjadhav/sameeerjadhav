@@ -1,35 +1,55 @@
-## Passionate Data Scientist with a Strong Foundation in Computer Science
+# Sameer Jadhav 🌟
+**Data Scientist | AI Researcher | M.S. in Computer Science (Data Science) - University of Cincinnati | [LinkedIn](https://www.linkedin.com/in/sameeerjadhav/)**
 
-Welcome to my GitHub profile! I am an enthusiastic and results-driven Data Scientist with a solid background in Computer Science, specializing in Data Science. My journey has taken me through diverse academic and professional experiences that have shaped me into a capable and innovative problem solver in the world of data-driven insights. Let me take you on a tour of my educational and professional achievements.
+Updated: 11/11/2024
 
-### **Education: Building the Foundation**
+---
 
-I hold a Master of Science in Computer Science with a specialization in Data Science from the College of Engineering and Applied Sciences at the University of Cincinnati (UC), Cincinnati, Ohio. My academic journey was marked by in-depth exploration and research, particularly in the field of Brain-Computer Interface (BCI) based assistive robot control. Additionally, I achieved a Bachelor of Engineering in Information Technology from Atharva College of Engineering, University of Mumbai, India.
+Welcome to my GitHub! I’m Sameer Narendra Jadhav, a data scientist with a passion for building scalable, data-driven solutions that make a real impact. Currently, I’m an AI Research Intern at Cincinnati Children’s Health and Medical Center, where I am building cutting-edge AI tools to transform healthcare research and clinical insights.
 
-### **Technical Prowess: Skills that Drive Innovation**
+## 🔍 About Me
 
-My technical toolkit is well-equipped to handle a myriad of challenges. Proficient in programming and scripting languages such as Python, R, and SQL, I leverage my skills to develop comprehensive solutions. I am well-versed in tools like Microsoft Azure, Power BI, Tableau, PyCharm, and Microsoft SQL Server, among others. My skills span across Machine Learning, Deep Learning, MLOps, Statistical Modeling, Predictive Modeling, and Automation. I am comfortable working with Big Data, Hadoop, Cloud Computing, structured and unstructured databases, and time-series modeling. Frameworks such as NumPy, Pandas, Scikit-learn, Keras, OpenCV, PyTorch, R Shiny, Koalas, and Streamlit form the foundation of my technical arsenal.
+My journey in data science and AI spans several diverse domains, including healthcare, consumer goods, and insurance. I have extensive experience developing knowledge graphs, building multi-agent systems, engineering deep learning models for image and signal processing, and optimizing predictive algorithms. My technical skills are broad and deep, covering everything from statistical modeling and natural language processing to deploying production-grade applications on cloud platforms.
 
-### **Professional Journey: Transforming Data into Insights**
+### Highlights of My Work
 
-My career path reflects my commitment to harnessing data for actionable insights. As a Data Science Research Intern at Procter & Gamble Digital Accelerator at UC, Cincinnati, Ohio, I am engaged in groundbreaking work. I am developing an Evidential Deep Learning model on diverse multi-dimensional data to predict the success rate of critical studies. This model empowers early identification of potential product quality issues, leading to proactive remediation strategies. I have also been entrusted with implementing Procter & Gamble’s native frameworks for Evidential Deep Learning, showcasing my expertise in understanding and adapting to cutting-edge technologies.
+- **Knowledge Graphs and AI Systems for Healthcare**  
+  At Cincinnati Children's, I am leading the development of a knowledge graph-powered, multi-agent Retrieval-Augmented Generation (RAG) system. This system uses GenAI techniques like instruction fine-tuning and vector search, enabling researchers to derive insights faster and more accurately from scientific data.
 
-Furthermore, I have spearheaded the creation of a scalable image analytics pipeline on Azure Data Factory, facilitating product designers at P&G in their research endeavors. My proficiency with Azure Databricks and Azure Blob Storage enables me to distill large-scale structured and unstructured data into meaningful insights. My secure data visualization solutions, crafted using Power BI and Streamlit, empower stakeholders to glean insights from Databricks and Azure Blob Storage, amplifying the impact of data-driven decisions.
+- **Advanced Image Analytics in Consumer Goods**  
+  During my time with Procter & Gamble, I built image segmentation pipelines using deep learning models (ResNet, U-Net) on Azure Data Factory to streamline high-volume data processing, providing product designers with insights that enhance pre-market product quality and consumer satisfaction.
 
-### **A Proven Record of Delivering Value**
+- **Insurance Technology Solutions**  
+  At Accenture, I worked as an Application Development Analyst, transforming the Duck Creek Claims process. I engineered automation processes that improved data integrity, reduced data transmission errors, and optimized claim processing speed by 93%, earning me the Accenture Excellence Award.
 
-During my tenure as an Application Development Analyst at Accenture in Mumbai, India, I exhibited my analytical prowess by identifying potentially fraudulent claims with higher accuracy than the legacy system. Collaborating across teams, I implemented advanced anomaly detection techniques for credit card transactions, significantly enhancing fraud detection capabilities. My contributions extended to automating reserve prediction and optimizing claim processing efficiency by 10%, earning me the prestigious Accenture Excellence Award for delivering substantial value to clients' businesses.
+### Featured Projects
 
-### **Academic Ventures: Translating Ideas into Reality**
+- **Healthpedia AI: Your Wellness Companion**  
+  Healthpedia is an LLM-powered medical chatbot leveraging LangChain, Meta Llama2, and Pinecone, designed to answer complex healthcare-related queries with precision. By integrating advanced NLP techniques with RetrievalQA, it provides meaningful, context-aware responses for medical inquiries.
 
-My passion for innovation is evident through my academic projects. The "Sign Speller," an English to Sign Language translator, stands out as a testament to my commitment to inclusivity. This project not only secured the "Best Education Hack" award at the RevolutionUC Hackathon but also showcases my dedication to leveraging technology for social good. Another noteworthy endeavor is the "Wafer Sensor Fault Detection" project, which saw the creation of a multi-model classification framework for predicting wafer sensor quality. My proficiency in building end-to-end pipelines for automation and machine learning played a pivotal role in the success of this venture.
+- **Sensor-Sentinel: ML-Powered Quality Assurance**  
+  Developed a robust ML pipeline for quality assurance in wafer sensor manufacturing, utilizing KMeans clustering for segmentation and classification models (Random Forest, XGBoost) to ensure accurate and scalable sensor quality predictions.
 
-### **Certifications and Achievements: A Trailblazer in the Field**
+## 🔧 Technical Skills
 
-My continuous pursuit of knowledge is reflected in my certifications. I am an Azure Data Scientist (DP-100) and hold Azure Data Fundamentals (DP-900) certification. Additionally, I have completed the Neural Networks & Deep Learning course from DeepLearning.AI, further enhancing my expertise in cutting-edge technologies.
+- **Languages**: Python, R, SQL
+- **Tools & Platforms**: Microsoft Azure, Databricks, Neo4j, Power BI, Streamlit, MLFlow, Docker, Flask
+- **Libraries & Frameworks**: TensorFlow, PyTorch, Scikit-Learn, LangChain, Pinecone, SciPy, Pandas, NumPy
+- **Certifications**: Microsoft Certified: Azure Data Scientist Associate (DP-100), Azure Data Fundamentals (DP-900), GenAI with Large Language Models
 
-My commitment to excellence has been recognized through various awards and fellowships, totaling $39,427. Among these honors are the Graduate Incentive Award, CEAS Modeling and Simulation Fellowship, and Procter & Gamble Simulation Center Student accolade. Additionally, I clinched the second place in the 'UC Startup Competition,' where I showcased my entrepreneurial spirit by crafting a sustainable startup concept.
+## 🌱 Areas of Interest
 
-### **Conclusion: A Data Visionary with a Drive to Excel**
+I’m passionate about applying AI to solve real-world problems, particularly in healthcare and consumer insights. My interests include:
 
-In the realm of Data Science, my journey has been marked by curiosity, innovation, and a relentless pursuit of excellence. My education, technical skills, and professional experiences have converged to create a well-rounded Data Scientist with a flair for solving complex problems. I invite you to connect with me, collaborate on exciting projects, and explore the possibilities that data-driven insights can unlock. Together, let's embark on a journey of transforming data into actionable wisdom and shaping the future through innovation.
+- Large Language Models (LLMs) and Natural Language Processing
+- Knowledge Graphs and Multi-Agent Systems
+- Machine Learning Interpretability & Explainability
+- Cloud & Scalable AI Deployments
+- Image Segmentation & Computer Vision
+
+## 📈 Let’s Connect
+
+Feel free to explore my repositories for more detailed insights into my work. I regularly update my GitHub with new projects, insights, and innovations in data science. Let’s connect on LinkedIn or reach out to me via email to discuss potential collaborations or opportunities!
+
+---
+
