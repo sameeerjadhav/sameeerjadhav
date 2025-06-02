@@ -1,34 +1,21 @@
 # Sameer Jadhav 🌟
 **Data Scientist | AI Researcher | M.S. in Computer Science (Data Science) - University of Cincinnati | [LinkedIn](https://www.linkedin.com/in/sameeerjadhav/)**
 
-Updated: 11/11/2024
+Updated: 06/02/2025
 
 ---
 
-Welcome to my GitHub! I’m Sameer Jadhav, a data scientist with a passion for building scalable, data-driven solutions that make a real impact. Currently, I’m an AI Research Intern at Cincinnati Children’s Health and Medical Center, where I am building cutting-edge AI tools to transform healthcare research and clinical insights.
+Welcome to my GitHub! I’m Sameer Jadhav, an AI Engineer driven by curiosity and impact.
 
-## 🔍 About Me
+Over the past few years, I’ve worked across healthcare, e-commerce, and enterprise domains applying machine learning, large language models, and MLOps to solve real-world problems. From reducing latency in production pipelines to building knowledge graphs for biomedical discovery, I’ve learned that great AI isn’t just about models, it’s about systems, outcomes, and empathy for the end user.
 
-My journey in data science and AI spans several diverse domains, including healthcare, consumer goods, and insurance. I have extensive experience developing knowledge graphs, building multi-agent systems, engineering deep learning models for image and signal processing, and optimizing predictive algorithms. My technical skills are broad and deep, covering everything from statistical modeling and natural language processing to deploying production-grade applications on cloud platforms.
+Currently at Mercato Fabbrica, I’m building a recommender system that helps people find products they love leveraging deep learning, personalization techniques, and scalable architecture.
 
-### Highlights of My Work
+Whether it's accelerating quality checks at Procter & Gamble, driving research innovation at Cincinnati Children's, or building robust ETL pipelines at Accenture, I’ve consistently worked at the intersection of data, domain, and product.
 
-- **Knowledge Graphs and AI Systems for Healthcare**  
-  At Cincinnati Children's, I am developing a knowledge graph-powered, multi-agent Retrieval-Augmented Generation (RAG) system. This system uses GenAI techniques like instruction fine-tuning and vector search, enabling researchers to derive insights faster and more accurately from scientific data.
+I thrive in teams where experimentation is encouraged, collaboration is real, and the goal is clear: use AI to build things that matter.
 
-- **Advanced Image Analytics in Consumer Goods**  
-  During my time with Procter & Gamble, I built image segmentation pipelines using deep learning models (ResNet, U-Net) on Azure Data Factory to streamline high-volume data processing, providing product designers with insights that enhance pre-market product quality and consumer satisfaction.
-
-- **Insurance Technology Solutions**  
-  At Accenture, I worked as an Application Development Analyst, transforming the Duck Creek Claims process. I engineered automation processes that improved data integrity, reduced data transmission errors, and optimized claim processing speed by 93%, earning me the Accenture Excellence Award.
-
-### Featured Projects
-
-- **Healthpedia AI: Your Wellness Companion**  
-  Healthpedia is an LLM-powered medical chatbot leveraging LangChain, Meta Llama2, and Pinecone, designed to answer complex healthcare-related queries with precision. By integrating advanced NLP techniques with RetrievalQA, it provides meaningful, context-aware responses for medical inquiries.
-
-- **Sensor-Sentinel: ML-Powered Quality Assurance**  
-  Developed a robust ML pipeline for quality assurance in wafer sensor manufacturing, utilizing KMeans clustering for segmentation and classification models (Random Forest, XGBoost) to ensure accurate and scalable sensor quality predictions.
+Let’s connect if you're exploring anything in intelligent systems, GenAI, or just want to talk about building useful things.
 
 ## 🔧 Technical Skills
 
@@ -39,7 +26,7 @@ My journey in data science and AI spans several diverse domains, including healt
 
 ## 🌱 Areas of Interest
 
-I’m passionate about applying AI to solve real-world problems, particularly in healthcare and consumer insights. My interests include:
+I’m passionate about applying AI to solve real-world problems. My interests include:
 
 - Large Language Models (LLMs) and Natural Language Processing
 - Knowledge Graphs and Multi-Agent Systems
